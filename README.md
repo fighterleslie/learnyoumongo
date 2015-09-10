@@ -3,7 +3,7 @@ The repo contains my solutions to Nodeschool.io **learnyoumongo** puzzles. You c
 
 The puzzle is regarding: 
 - The CRUD in MongoDB
-- The use of `mongodb` package on npm 
+- The use of `mongodb` package on npm (use `npm install mongodb` to install the package)
 
 The puzzles are at introductory level.
 
